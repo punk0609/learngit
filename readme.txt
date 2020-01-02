@@ -6,3 +6,4 @@ Create new branch.
 Dev branch add new fn.
 test merge.
 master & feature1 add new line.
+add merge.
