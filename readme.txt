@@ -5,4 +5,4 @@ Edit again.
 Create new branch.
 Dev branch add new fn.
 test merge.
-master add new line.
+master & feature1 add new line.
