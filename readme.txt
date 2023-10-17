@@ -10,3 +10,7 @@ someone_edited
 
 
 abc12
+
+
+add new function
+add new function2
